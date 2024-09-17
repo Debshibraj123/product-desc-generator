@@ -1,4 +1,3 @@
-from __future__ import annotations
 import os, openai
 from langchain.prompts import PromptTemplate
 from langchain.chat_models import ChatOpenAI
